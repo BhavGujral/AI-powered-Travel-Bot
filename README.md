@@ -14,11 +14,11 @@ Get personalized travel suggestions, itineraries, and travel tips — all in one
 -API: OpenAI
 -Deployment: Local (or can be deployed to a platform like Netlify, Vercel, etc.) 
 ## Prerequisites
-##Install Node.js (if not already installed).
-##Clone this repository to your local machine:
-##git clone https://github.com/BhavGujral/AI-powered-Travel-Bot
-##cd ai-travel-companion
-##Install dependencies:
+#Install Node.js (if not already installed).
+#Clone this repository to your local machine:
+#git clone https://github.com/BhavGujral/AI-powered-Travel-Bot
+#cd ai-travel-companion
+#Install dependencies:
 ##npm install
 ##Set up your environment variables:
 ##Create a .env file in the root directory of your project and add the following:
