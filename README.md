@@ -19,7 +19,7 @@ Get personalized travel suggestions, itineraries, and travel tips — all in one
 #git clone https://github.com/BhavGujral/AI-powered-Travel-Bot
 #cd ai-travel-companion
 #Install dependencies:
-##npm install
+## npm install
 ##Set up your environment variables:
 ##Create a .env file in the root directory of your project and add the following:
 ##OPENAI_API_KEY=your_openai_api_key
