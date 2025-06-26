@@ -16,7 +16,7 @@ Get personalized travel suggestions, itineraries, and travel tips — all in one
 ## Prerequisites
 Install Node.js (if not already installed).
 Clone this repository to your local machine:
-git clone 
+git clone https://github.com/BhavGujral/AI-powered-Travel-Bot
 cd ai-travel-companion
 Install dependencies:
 npm install
